@@ -1,4 +1,4 @@
-# 🩺 AI Health Symptom Checker
+# SYMPTOCARE 
 
 An AI-powered web application built with Streamlit and Scikit-Learn that predicts potential medical conditions based on user-selected symptoms. 
 
@@ -9,7 +9,7 @@ An AI-powered web application built with Streamlit and Scikit-Learn that predict
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-symptom-checker.git
+git clone https://github.com/hayatasnim/ai-symptom-checker.git
 cd ai-symptom-checker
 pip install -r requirements.txt
 streamlit run app/app.py
