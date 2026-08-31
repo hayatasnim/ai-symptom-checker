@@ -11,6 +11,12 @@ An AI-powered web application built with Streamlit and Scikit-Learn that predict
 ```bash
 git clone https://github.com/hayatasnim/ai-symptom-checker.git
 cd ai-symptom-checker
+```
+### 2. Install Dependencies 
+```bash
 pip install -r requirements.txt
+```
+### 3. Launch the App
+```bash
 streamlit run app/app.py
 ```
