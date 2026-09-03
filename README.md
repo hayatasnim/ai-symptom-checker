@@ -9,7 +9,7 @@ An AI-powered web application built with Streamlit and Scikit-Learn that predict
 ## Academic Project Metadata 
 * **Course Code & Name:** BIT4543 ARTIFICIAL INTELLIGENCE 
 * **Group Name:** Group 7
-* **Project Title:** SymptoCare:** AI Health Symptom Checker 
+* **Project Title:** SymptoCare: AI Health Symptom Checker 
 
 ### Group Members
 1. Nur Aliya Adriana Binti Haizat (2410-2200)
