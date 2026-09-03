@@ -37,10 +37,11 @@ ai-symptom-checker/
 ├── .streamlit/        # Streamlit theme & UI configuration
 ├── app/               # Main Streamlit web application interface
 ├── data/              # Processed dataset & feature mapping files
-├── docs/              # System architecture diagrams & report documentation
+├── docs/              # Final report, slides, poster & architecture diagrams
 ├── models/            # Serialized model artifacts (.pkl files)
 ├── notebooks/         # Model training & EDA Jupyter Notebooks
 ├── tests/             # Unit & integration test scripts
+├── .gitattributes     # Git LFS configuration for large model and dataset files
 ├── .gitignore         # Untracked files configuration
 ├── README.md          # Project documentation
 └── requirements.txt   # Python dependency list
